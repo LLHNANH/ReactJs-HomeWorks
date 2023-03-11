@@ -1,0 +1,26 @@
+.container1{
+    text-align: left;
+    border: 0px solid #111;
+    color: #111;
+    padding-left: 30px;
+    width: 30%;
+}
+
+.hr1{
+    width: 100%;
+    color: #888;
+    text-align: left;
+    size: 5px;
+}
+
+.color1{
+    color: rgb(41, 41, 245);
+}
+
+.color2{
+    color: rgb(173, 173, 6);
+}
+
+.ima{
+    padding-left: 70px;
+}

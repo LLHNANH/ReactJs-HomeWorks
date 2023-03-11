@@ -1,0 +1,23 @@
+.typeclothes{
+    padding: 12px 10px;
+    border: 1px solid #111;
+    color: #111;
+    width: 40%;
+    display: flex;
+  }
+
+  .typeclothesright{
+    text-align: left;
+    vertical-align: middle;
+    flex: 50%;
+    color: #888;
+}
+.color{
+    color: #111;
+}
+
+.img{
+    width: 50%;
+    flex: 50%;
+    padding-top: 20px;
+}

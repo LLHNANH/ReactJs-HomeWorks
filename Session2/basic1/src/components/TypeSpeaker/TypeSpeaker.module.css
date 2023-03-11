@@ -1,0 +1,16 @@
+.typespeaker{
+    border: 0px solid #111;
+    color: #111;
+    width: 30%;
+  }
+.content{
+    text-align: left;
+    vertical-align: middle;
+    color: #888;
+}
+.img{
+    width: 100%;
+}
+.color{
+    color: #111;
+}
